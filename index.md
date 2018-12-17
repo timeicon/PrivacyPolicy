@@ -1,37 +1,25 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/timeicon/PrivacyPolicy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The Software respects and protects the privacy of all users who use the Services. In order to provide you with more accurate and personalized services, the Software will use and disclose your personal information in accordance with this Privacy Policy. However, the software will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this Privacy Policy, the Software will not disclose or provide such information to third parties without your prior permission. This software will update this Privacy Policy from time to time. By agreeing to the Software Services Use Agreement, you are deemed to have agreed to the entire contents of this Privacy Policy. This Privacy Policy is an integral part of the Software Service Use Agreement.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Scope of application
 
-### Markdown
+a) The information on your mobile phone that is automatically received and recorded by the software when you use the software network service, including but not limited to your health data, language used, date and time of access, hardware and software characteristics information and your needs Web page records and other data.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. Use of Information 
 
-```markdown
-Syntax highlighted code block
+a) After obtaining your data, the software will upload it to the server to generate your leaderboard data so that you can use the service better. 
 
-# Header 1
-## Header 2
-### Header 3
+3. Information Disclosure 
 
-- Bulleted
-- List
+a) The Software will not disclose your information to untrusted third parties. 
+b) According to the relevant provisions of the law, or the requirements of the administrative or judicial institutions, disclose to third parties or administrative and judicial institutions.
+c) If you violate the relevant laws, regulations or relevant rules of China, you need to disclose to third parties.
 
-1. Numbered
-2. List
+4. Information storage and exchange
 
-**Bold** and _Italic_ and `Code` text
+The information and materials collected by the Software about you will be stored on the Software and/or its affiliates' servers, which may be sent to your country, region or the location where the Software collects information and materials. It is accessed, stored and displayed outside the country.
 
-[Link](url) and ![Image](src)
-```
+5. Information security
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/timeicon/PrivacyPolicy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+a) When using the software web service for online transactions, you will inevitably disclose your personal information, such as contact information or postal address, to the counterparty or potential counterparty. Please protect your personal information and provide it to others only when necessary. If you find that your personal information is leaking, please contact the software customer service immediately, so that the software can take corresponding measures.
