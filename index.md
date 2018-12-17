@@ -12,9 +12,9 @@ a) After obtaining your data, the software will upload it to the server to gener
 
 ### 3. Information Disclosure 
 
-a) The Software will not disclose your information to untrusted third parties. 
-b) According to the relevant provisions of the law, or the requirements of the administrative or judicial institutions, disclose to third parties or administrative and judicial institutions.
-c) If you violate the relevant laws, regulations or relevant rules of China, you need to disclose to third parties.
+a) The Software will not disclose your information to untrusted third parties.  
+b) According to the relevant provisions of the law, or the requirements of the administrative or judicial institutions, disclose to third parties or administrative and judicial institutions.  
+c) If you violate the relevant laws, regulations or relevant rules of China, you need to disclose to third parties.  
 
 ### 4. Information storage and exchange
 
